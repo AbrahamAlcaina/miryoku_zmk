@@ -1,3 +1,14 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
+#define MIRYOKU_ALPHAS_QWERTY
+#define MIRYOKU_EXTRAS_QWERTY
+#define MIRYOKU_TAP_QWERTY
+
+#define MIRYOKU_NAV_VI
+
+CONFIG_ZMK_POINTING=y
+#include <dt-bindings/zmk/pointing.h>
+
+
+
