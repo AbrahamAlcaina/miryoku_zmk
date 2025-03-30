@@ -4,5 +4,3 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/38/totem.h"
 #include "../miryoku/miryoku.dtsi"
-
-#include <dt-bindings/zmk/pointing.h>
