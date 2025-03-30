@@ -7,7 +7,4 @@
 
 #define MIRYOKU_NAV_VI
 
-
-
-
-
+CONFIG_ZMK_POINTING=y
